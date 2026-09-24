@@ -12,7 +12,10 @@
 | `triangle.py` | [triangle.md](../docs/triangle.md)   | S = a * h / 2   | P = a + b + c     |
 
 ## Коммиты
-* `d2c7032` - docs: docs: add information for modul-trinagle
-* `2b0eca8` - feat: Add new files (triangle.py, rectangle.py)
+* `62695c0` - docs: update README.md
+* `d534780` - docs: add modules-info files
+* `bca8a10` - docs: add comments in all functions
+* `8ee295c` - docs: add description for triangle-module
+* `305b40c` - feat: add new moduls (rectangle.py, triangle.py)
 * `d078c8d` - L-03: Docs added
 * `8ba9aeb` - L-03: Circle and square added
