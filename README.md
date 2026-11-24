@@ -26,6 +26,10 @@
 |test_triangle  | 10/10           |
 
 ## Коммиты
+* `91028bf` - fix: add easy checker of type and fix path in .gitignore
+* `e7f59db` - feat: add CI pipline
+* `5b850bb` - feat: add CI
+* `264ff8e` - docs: change README (end of 4 lab)
 * `94bc231` - add .gitignore
 * `b84df02` - docs: Change path to README and change info about tests
 * `9287515` - Add tests files and test_runner file
