@@ -1,5 +1,7 @@
 # Документация проекта Geometric Lib
 
+[![Unit Tests](https://github.com/AlexZloy-code/geometric_lib/actions/workflows/main.yml/badge.svg)](https://github.com/AlexZloy-code/geometric_lib/actions/workflows/main.yml)
+
 ## Общее описание
 Проект Geometric Lib - это библиотека на Python для вычисления площади и периметра геометрических фигур: круга, прямоугольника, квадрата и треугольника.
 
