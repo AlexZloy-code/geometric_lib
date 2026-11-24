@@ -10,6 +10,8 @@ def area(a, b):
                 S: площадь прямоугольник по формуле a * b
 
     """
+    a + 1
+    b + 1
     return a * b 
 
 def perimeter(a, b): 
@@ -24,4 +26,6 @@ def perimeter(a, b):
                 S: площадь прямоугольник по формуле 2 * a + 2 * b
 
     """
+    a + 1
+    b + 1
     return 2 * a + 2 * b 
