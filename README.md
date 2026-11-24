@@ -6,10 +6,22 @@
 ## Модули и формулы
 | Модуль        | Описание конкретного модуля          | Формула площади | Формула периметра |
 | ------------- |:------------------------------------:|:---------------:|:-----------------:|
-| `circle.py`   | [circle.md](../docs/circle.md)       | S = πR²         | P = 2πR           |
-| `rectangle.py`| [rectangle.md](../docs/rectangle.md) | S = ab          | P = 2a + 2b       |
-| `square.py`   | [square.md](../docs/square.md)       | S = a²          | P = 4a            |
-| `triangle.py` | [triangle.md](../docs/triangle.md)   | S = a * h / 2   | P = a + b + c     |
+| `circle.py`   | [circle.md](./docs/circle.md)        | S = πR²         | P = 2πR           |
+| `rectangle.py`| [rectangle.md](./docs/rectangle.md)  | S = ab          | P = 2a + 2b       |
+| `square.py`   | [square.md](./docs/square.md)        | S = a²          | P = 4a            |
+| `triangle.py` | [triangle.md](./docs/triangle.md)    | S = a * h / 2   | P = a + b + c     |
+
+## Информация о тестах
+<!-- Подготовка к CI -->
+[tests.md](./docs/tests.md)
+
+|Модуль         |Результаты тестов| 
+| ------------- |:---------------:|
+|All tests      | 39/42           |
+|test_circle    | 12/12           |
+|test_rectangle | 8/10            |
+|test_square    | 9/10            |
+|test_triangle  | 10/10           |
 
 ## Коммиты
 * `62695c0` - docs: update README.md

@@ -11,6 +11,7 @@ def run_test_summary(test_dir="tests"):
 
     count_passed = 0
     count_total = 0
+
     for filename in test_files:
         module_name = filename[:-3]
         suite = loader.discover(start_dir=test_dir, pattern=filename)
@@ -33,7 +34,7 @@ def run_test_summary(test_dir="tests"):
         for i in result.errors:
             print(i[0])
             print(i[1])
-        print('\n\n\n')
+        print('\n\n')
 
     print(f"All tests - {count_passed}/{count_total}")
 
