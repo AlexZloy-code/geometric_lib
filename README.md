@@ -13,7 +13,7 @@
 
 ## Информация о тестах
 <!-- Подготовка к CI -->
-[tests.md](./docs/tests.md)
+[О тестовой системе](./docs/tests.md)
 
 |Модуль         |Результаты тестов| 
 | ------------- |:---------------:|
@@ -24,6 +24,9 @@
 |test_triangle  | 10/10           |
 
 ## Коммиты
+* `94bc231` - add .gitignore
+* `b84df02` - docs: Change path to README and change info about tests
+* `9287515` - Add tests files and test_runner file
 * `62695c0` - docs: update README.md
 * `d534780` - docs: add modules-info files
 * `bca8a10` - docs: add comments in all functions
